@@ -1,0 +1,34 @@
+void main() {
+ 
+ //Numbers: int
+ int score = 23; 
+ var count = 23;
+   
+   
+ //Numbers: double
+ double percentage = 93.4;
+ var percent = 93.4;
+
+  
+ //Strings
+ String name = "Lekan";
+ var surname = "Okeowo";
+ 
+  
+ //Boolean
+ bool isValid = true;
+ var isinvalid = false;
+  
+ print(score);
+  print(count);
+  
+  print(percentage);
+  print(percent);
+  
+ print(name);
+ print(surname);
+  
+  print(isinvalid);
+   print(isValid);
+  
+}
