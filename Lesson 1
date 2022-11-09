@@ -1,0 +1,11 @@
+void main() {
+  
+ print("Hello World");
+  
+ print('This is my first application');
+  
+ print(4-2);
+  
+ print(false);
+  
+}
