@@ -1,0 +1,39 @@
+void main() {
+  
+  //IF and Else statements
+ var salary = 15000;
+ 
+  if (salary > 20000) {
+    
+    print ("Congratulations, You just got promoted!");
+  } else {
+    print("Put in more work to get promoted");
+  }
+  
+ //IF and Else If statements
+  
+ var score = 200;
+  
+  if (score >= 80 && score < 100){
+    print("A Grade");
+  } else if (score >= 70 && score < 80){
+    print("B Grade");
+  } else if (score >= 58 && score < 70){
+    print("C Grade");
+  } else if (score >= 45 && score < 58){
+    print("D Grade");
+  } else if (score >= 40 && score < 45){
+    print("E Grade");
+  } else if (score < 40){
+    print("You have Failed,\n" 
+          "Please study harder");
+  } else {
+    print("Invalid Score,\n" 
+          "Please try again !");
+  }
+  
+  
+  
+  
+}
+  
