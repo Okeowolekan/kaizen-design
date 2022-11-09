@@ -1,0 +1,28 @@
+void main() {
+  
+  var iscool = true;
+  var x = 2;
+  var name = "John";
+  
+  
+  String s1 = 'Single';
+  var s2 = "Double";
+  String s4 = "It's easy";
+ 
+  var s5 = "This is going to be a very long String of code.";
+  var s6 = "Lekan \n"
+    "Okeowo\n"
+    "The Kaizen Designer";
+    
+  
+  
+ print(iscool);
+ print(x);
+ print(name);
+ print(s1);
+ print(s2);
+ print(s4);
+ print("$s5 \n"
+ "This is just a sample String demo in dart programming.");
+ print(s6);
+}
